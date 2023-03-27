@@ -19,3 +19,9 @@ go test -v -timeout 10s -run Module2
 go test -v -timeout 10s -run Module3
 
 ```
+
+How to Install
+
+```
+go get github.com/uyutaka/alog
+```
